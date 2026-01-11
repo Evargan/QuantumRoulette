@@ -102,13 +102,7 @@ quantum_buckshot_roulette/
 ├── game_logic.py     # Quantum mechanics and game rules
 ├── ui_components.py  # tkinter UI elements
 ├── animations.py     # Visual animations
-└── requirements.txt  # Python dependencies
+├── documentaion.ipynb    # Documentaion
 ```
 
-## 📝 License
 
-Educational project for quantum computing concepts in game format.
-
----
-
-*"In quantum mechanics, observation changes reality. In Quantum Buckshot Roulette, your choice of gate changes your fate!"*
