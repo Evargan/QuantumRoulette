@@ -97,7 +97,6 @@ Eliminate your opponent by reducing their lives to 0!
 ## 📁 File Structure
 
 ```
-quantum_buckshot_roulette/
 ├── main.py           # Entry point, main menu
 ├── game_logic.py     # Quantum mechanics and game rules
 ├── ui_components.py  # tkinter UI elements
